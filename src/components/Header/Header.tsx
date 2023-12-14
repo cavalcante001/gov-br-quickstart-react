@@ -9,7 +9,7 @@ const Header = () => {
   const title = 'Web Components GovBR-DS - Quickstart React'
   const signature = 'Padrão Digital de Governo'
   const image = {
-    src: '/wbc/quickstarts/govbr-ds-wbc-quickstart-react/logo-react.png',
+    src: '/logo-react.png',
     alt: 'Logo de exemplo',
   }
 
