@@ -25,7 +25,7 @@ const App = () => {
                 <Breadcrumb />
                 <div className="main-content pl-sm-3 mt-4" id="main-content">
                   <Routes>
-                    <Route path="wbc/quickstarts/govbr-ds-wbc-quickstart-react/" element={<HomePage />} />
+                    <Route path="/" element={<HomePage />} />
                     <Route path="wbc/quickstarts/govbr-ds-wbc-quickstart-react/formularios" element={<FormPage />} />
                     <Route path="wbc/quickstarts/govbr-ds-wbc-quickstart-react/sign-in" element={<SignInPage />} />
                     <Route path="wbc/quickstarts/govbr-ds-wbc-quickstart-react/cookiebar" element={<CookiebarPage />} />
