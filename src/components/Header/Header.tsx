@@ -62,7 +62,7 @@ const Header = () => {
       id="header"
       image={image.src}
       signature={signature}
-      title-link-url="/wbc/quickstarts/govbr-ds-wbc-quickstart-react/"
+      title-link-url="/"
       title={title}
     >
       <div slot="headerMenu">
